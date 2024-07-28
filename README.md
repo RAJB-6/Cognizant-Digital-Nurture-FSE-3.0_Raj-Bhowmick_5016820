@@ -56,8 +56,3 @@ The deep-skilling program is structured into weekly modules, each focusing on di
 - **Spring REST**
   - Topics: RESTful web services with Spring Boot, HTTP methods, JSON data exchange
   - Exercises: Developing REST APIs and handling client-server interactions
-
-## Resources
-Two important documents are provided for your reference:
-1. [Deep Skilling Handbook](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/DN3.0-Deepskilling-Handbook-Java-FSE.pdf)
-2. [FAQ - Digital Nurture 3.0](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/FAQ%20-%20DN%203.0.pdf)
