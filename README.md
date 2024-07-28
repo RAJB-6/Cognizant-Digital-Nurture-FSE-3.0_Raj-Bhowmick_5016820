@@ -1,4 +1,4 @@
-[# Cognizant Digital Nurture 3.0 - JAVA FSE
+# Cognizant Digital Nurture 3.0 - JAVA FSE
 
 Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) repository. This repository contains all the weekly assignments for the deep-skilling program aimed at enhancing your Java FSE capabilities.
 
@@ -61,6 +61,3 @@ The deep-skilling program is structured into weekly modules, each focusing on di
 Two important documents are provided for your reference:
 1. [Deep Skilling Handbook](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/DN3.0-Deepskilling-Handbook-Java-FSE.pdf)
 2. [FAQ - Digital Nurture 3.0](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/FAQ%20-%20DN%203.0.pdf)
-## License
-© [2024 Aritra Chakraborty, University Of Engineering and Management - Kolkata. All rights reserved.](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/LICENSE.md)
-](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/FAQ%20-%20DN%203.0.pdf)
