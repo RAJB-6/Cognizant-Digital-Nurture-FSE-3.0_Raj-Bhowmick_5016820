@@ -9,8 +9,8 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
   - [Algorithms and Data Structures](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_1/Algorithms%20Data%20Structure)
   - [Design Patterns and Principles](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_1/Design%20Patterns%20and%20Principles)
 - [Week 2](#week-2)
-  - [PL/SQL]
-  - [Spring Core and Maven]
+  - [PL/SQL](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/blob/main/Week_2/Week_2_PLSQL.docx)
+  - [Spring Core and Maven](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_2/spring_core_Maven)
 - [Week 3](#week-3)
   - [Spring Data JPA and Hibernate]
 - [Week 4 & 5](#week-4--5)
@@ -24,7 +24,8 @@ This repository is a comprehensive collection of all the assignments and project
 ## Weekly Assignment Answers
 - [Week 1 Algorithms and Data Structures](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_1/Algorithms%20Data%20Structure)
 - [Week 1 Design Patterns and Principles](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_1/Design%20Patterns%20and%20Principles)
-
+- [Week 2 PL/SQL](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/blob/main/Week_2/Week_2_PLSQL.docx)
+- [Week 2 Spring Core and Maven](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_2/spring_core_Maven)
 
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
