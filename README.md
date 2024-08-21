@@ -14,7 +14,7 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
 - [Week 3](#week-3)
   - [Spring Data JPA and Hibernate](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_3)
 - [Week 4 & 5](#week-4--5)
-  - [Spring REST]
+  - [Spring REST](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_4)
   
 ## Overview
 This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
@@ -27,6 +27,7 @@ This repository is a comprehensive collection of all the assignments and project
 - [Week 2 PL/SQL](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/blob/main/Week_2/Week_2_PLSQL.docx)
 - [Week 2 Spring Core and Maven](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_2/spring_core_Maven)
 - [Week 3 Spring Data JPA and Hibernate](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_3)
+- [Week 4 Spring REST](https://github.com/RAJB-6/Cognizant-Digital-Nurture-FSE-3.0_Raj-Bhowmick_5016820/tree/main/Week_4)
 
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
